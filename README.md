@@ -1,6 +1,6 @@
 # Portefolio
 
-<h1 align="center">Salut 👋, je suis Florent BOUDZ</h1>
+<h1 align="center">Salut 👋, je suis Florent BOUDZOUMOU</h1>
 <h3 align="center">Développeur Web Fullstack en devenir · Passionné par le code, les projets utiles et la logique backend</h3>
 
 ---
