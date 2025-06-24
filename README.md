@@ -1,6 +1,6 @@
 
 <h1 align="center">Salut 👋, je suis Florent BOUDZOUMOU</h1>
-<h3 align="center">Développeur Web Fullstack en devenir · Passionné par le code, les projets utiles et la logique backend</h3>
+<h3 align="center">Développeur Web Fullstack · Passionné par les projets utiles , le frontend adaptif et attrayant et la logique backend</h3>
 
 ---
 
@@ -34,7 +34,8 @@
 ### 📫 Me contacter
 
 - 📧 Email : florentb@example.com
-- 📱 WhatsApp : +229 41807663
+- 📱 WhatsApp : +229 0141789203
+- Tel : +229 0161804972
 
 ---
 
@@ -46,5 +47,4 @@ _"Construire petit, livrer vite, apprendre toujours."_
 ### 🔍 À venir
 - Portfolio personnel en ligne
 - Intégration de frameworks modernes (Laravel, Vue/React)
-- Participations à des challenges tech et hackathons externes
 
