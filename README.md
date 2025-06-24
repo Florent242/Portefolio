@@ -33,7 +33,7 @@
 
 ### 📫 Me contacter
 
-- 📧 Email : florentb@example.com
+- 📧 Email : florentboudz@gmail.com
 - 📱 WhatsApp : +229 0141789203
 - Tel : +229 0161804972
 
