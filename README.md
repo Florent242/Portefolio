@@ -8,8 +8,8 @@
 ### 🚀 À propos de moi
 
 - 🔧 Je conçois et développe des applications web robustes, en me concentrant sur la **logique métier backend** et la **coordination d’équipes techniques**.
-- 💡 Je suis responsable technique backend de la **plateforme Hackathon ESGIS** et **chef de projet** d’une bibliothèque en ligne universitaire.
-- 🔁 Je travaille en **mode agile** avec une petite équipe que je forme et accompagne dans l’apprentissage des bonnes pratiques.
+- 💡 Je suis responsable technique backend de la **plateforme Hackathon ESGIS** et **chef de projet** d’une bibliothèque en ligne universitaire : AKOWE.
+- 🔁 Je travaille en **mode agile** avec une petite équipe que je forme et accompagne dans l’apprentissage des bonnes pratiques me permettant d'évoluer d'avantages.
 - 🎯 Mon objectif : devenir un **développeur fullstack** complet et autonome, capable de porter un projet de A à Z.
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠️ Stack & outils
 
 - **Langages** : PHP · JavaScript (AJAX) · HTML · CSS · MySQL
-- **Frameworks/Outils** : Git · Figma · Jira (notions) · Trello · VS Code · Google Workspace
+- **Frameworks/Outils** : Git · Figma · Jira (notions) · Trello · VS Code · Google Workspace · Laravel
 - **Méthodologies** : gestion de projet · rédaction de cahiers des charges · coordination technique · travail en équipe
 
 ---
