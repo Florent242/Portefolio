@@ -41,10 +41,3 @@
 
 ### 💬 Citation favorite
 _"Construire petit, livrer vite, apprendre toujours."_
-
----
-
-### 🔍 À venir
-- Portfolio personnel en ligne
-- Intégration de frameworks modernes (Laravel, Vue/React)
-
